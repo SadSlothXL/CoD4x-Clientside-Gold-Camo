@@ -21,4 +21,4 @@
 └── ...
 ```
 # Showcase Video!
-![Replay 2025-02-06 19-09-28 00_00_01_58 Still001](https://github.com/user-attachments/assets/cf2bacec-c2a5-4a9e-b62f-82fda3f727ac)([https://youtu.be/Z4Q5GbZJ7yU](https://youtu.be/KJlLSUw8eos))
+[![vlcsnap-2025-04-06-14h09m04s082](https://github.com/user-attachments/assets/cf2bacec-c2a5-4a9e-b62f-82fda3f727ac)](https://www.youtube.com/watch?v=KJlLSUw8eos)

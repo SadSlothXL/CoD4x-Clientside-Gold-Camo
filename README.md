@@ -15,9 +15,11 @@
 .
 ├── ...
 ├── 📁 Call of Duty 4
+|   ├── 📁 main
+│   │   └── 📜 localized_english_iw07.iwd
 │   └── 📁 zone
-|      └── 📁 <your game language>
-|          └── 📜 goldcamo.ff
+|       └── 📁 <your game language>
+|           └── 📜 goldcamo.ff
 └── ...
 ```
 # Showcase Video!
